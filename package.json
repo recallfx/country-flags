@@ -1,10 +1,10 @@
 {
-  "name": "svg-country-flags",
+  "name": "country-flags",
   "version": "2.0.0",
   "description": "SVG of all countries' flags.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hampusborgos/country-flags.git"
+    "url": "git+https://github.com/recallfx/country-flags.git"
   },
   "keywords": [
     "flags",
@@ -12,12 +12,8 @@
     "country",
     "svg"
   ],
-  "author": "Hampus Nilsson",
   "license": "PD",
-  "bugs": {
-    "url": "https://github.com/hampusborgos/country-flags/issues"
-  },
-  "homepage": "https://hampusborgos.github.io/country-flags/",
+  "homepage": "https://github.com/recallfx/country-flags/",
   "exports": {
     ".": "./countries.json",
     "./svg/*": "./svg/*.svg"
